@@ -1,6 +1,5 @@
 import re
 
-#Github: https://github.com/ChristopherBo/NSSA-220-Project2
 
 #Create Node class object
 class Node:

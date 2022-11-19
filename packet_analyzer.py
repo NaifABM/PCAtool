@@ -4,7 +4,6 @@ from compute_metrics import *
 import sys
 import os
 
-#Github: https://github.com/ChristopherBo/NSSA-220-Project2
 def main():
     fn = sys.argv[1]
     filename_sep = fn.split(".")
